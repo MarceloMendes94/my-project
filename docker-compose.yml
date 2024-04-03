@@ -72,5 +72,5 @@ volumes:
 
 networks:
   app:
-    name: App
+    #name: App
     driver: bridge
